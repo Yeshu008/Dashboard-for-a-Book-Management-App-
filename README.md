@@ -248,5 +248,10 @@ const genreOptions = [
 - All open-source contributors who made this project possible
 
 ---
-![DashBoard Page](Images/image.png)
-**Made with ❤️ for efficient book management**
+### DashBoard Page
+![DashBoard Page](Images/dashboard.png)
+
+### New Book Page
+![DashBoard Page](Images/form.png)
+
+**Efficient book management**
