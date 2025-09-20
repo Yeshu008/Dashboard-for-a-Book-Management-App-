@@ -239,9 +239,6 @@ const genreOptions = [
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -251,5 +248,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All open-source contributors who made this project possible
 
 ---
-
+![DashBoard Page](Images/image.png)
 **Made with ❤️ for efficient book management**
